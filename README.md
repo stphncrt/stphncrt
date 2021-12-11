@@ -1,7 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Stephen, Fullstack developer currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Alkmaar, Netherland</b>. </p>
+<p>Welcome to my page! </br> I'm Stephen, Fullstack developer currently living in Alkmaar, Netherland. </p>
 <h3>Techs I code with</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -16,13 +16,18 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+
+## Github Stats
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stphncrt&theme=tokyonight&show_icons=true)
+
 <h3>Where to find me</h3>
+
 <p><a href="https://github.com/stphncrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-<!-- **stphncrt/stphncrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started: -->
 
+
+<!-- 
 🌱 I’m currently learning Java Script
 
 ##  Technologies & Tools
@@ -31,6 +36,4 @@ Here are some ideas to get you started: -->
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=3c6e71)
 ![](https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>)
-
-## Github Stats
-![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stphncrt&theme=tokyonight&show_icons=true)
+ -->
